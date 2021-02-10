@@ -31,3 +31,9 @@ func main() {
 
 	router.Run()
 }
+
+// input from user
+// handler, mapping input dari user -> struct input
+// service: melakukan mapping dari struct input ke struct user
+// repository
+// db
