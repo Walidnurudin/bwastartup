@@ -13,5 +13,5 @@ type User struct {
 	AvatarFileName string
 	Role           string
 	CreatedAt      time.Time
-	UpdatedAt      time.Time
+	UpdateAt       time.Time
 }
